@@ -1,0 +1,18 @@
+# Build folder and log file
+
+node_modules/
+assets/
+dist/
+cypress/screenshots/
+cypress/videos/
+cypress/integration/examples/
+
+# Vim Swap Files
+.*.sw[a-z]
+.sw[a-z]
+
+# .env File
+.env
+
+# Local Netlify folder
+.netlify
