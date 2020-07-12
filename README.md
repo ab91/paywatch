@@ -10,8 +10,6 @@ Paywatch is a commission and income-tracking app that helps salespeople monitor 
 
 View Paywatch at [paywatchapp.com](http://www.paywatchapp.com/)
 
-View a short demo on Vimeo [here](https://vimeo.com/429845660).
-
 ## Features
 - Log hours and income via "select" and "text" inputs, see Data Visualization adjust according to input
 - Click "More Quotes" to make a call to the Quotes API and see quotes
