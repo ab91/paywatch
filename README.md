@@ -15,7 +15,6 @@ View Paywatch at [paywatchapp.com](http://www.paywatchapp.com/)
 - Click "More Quotes" to make a call to the Quotes API and see quotes
 - Dark Mode
 - Milestones (a pretty to do list)
-- OAuth implementation in progress (see [here](https://github.com/ab-kokiri/paywatch/blob/master/src/auth/auth.js))
 
 ## Local Installation
 
