@@ -8,7 +8,7 @@ Paywatch is a commission and income-tracking app that helps salespeople monitor 
   <img src="https://res.cloudinary.com/ab91/image/upload/v1592354165/Portfolio%20New/paywatch_demo.gif" alt="Paywatch Gif"/>
 </p>
 
-View Paywatch at [http://relaxed-shannon-41ee22.netlify.app/](https://relaxed-shannon-41ee22.netlify.app/)
+View Paywatch at [paywatch.app](https://www.paywatch.app/)
 
 ## Features
 - Log hours and income via "select" and "text" inputs, see Data Visualization adjust according to input
