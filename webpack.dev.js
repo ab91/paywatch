@@ -1,5 +1,6 @@
-const merge = require("webpack-merge");
+const path = require("path");
 const common = require("./webpack.common.js");
+const { merge } = require('webpack-merge')
 
 module.exports = merge(common, {
   mode: "development",
@@ -8,8 +9,12 @@ module.exports = merge(common, {
   },
   devtool: "inline-source-map",
   devServer: {
-    contentBase: "./dist",
-    writeToDisk: true,
-    port: 8000
+    port: 8000,
+    static: {
+      directory: path.join(__dirname, "dist")
+    },
+    devMiddleware: {
+      writeToDisk: true,
+    },
   }
 });
