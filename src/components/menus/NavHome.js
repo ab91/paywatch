@@ -20,7 +20,7 @@ const NavHome = props => {
     <Flexbox>
       <Logo />
       <Link to="/app" style={{ textDecoration: "none" }}>
-        <a
+        <div
           href="https://github.com/ab-kokiri/paywatch/blob/master/src/auth/auth.js"
           target="_blank"
           data-tip
@@ -28,7 +28,7 @@ const NavHome = props => {
           data-cy="dog"
         >
           <NavItem active={true} label="Login" />
-        </a>
+        </div>
         <ReactTooltip id="login" place="bottom" effect="solid" type="light">
           0Auth sign in pending.
         </ReactTooltip>
