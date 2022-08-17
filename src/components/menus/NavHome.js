@@ -25,7 +25,7 @@ const NavHome = props => {
           target="_blank"
           data-tip
           data-for="login"
-          data-cy="dog"
+          data-cy="login"
         >
           <NavItem active={true} label="Login" />
         </div>
@@ -33,7 +33,6 @@ const NavHome = props => {
           0Auth sign in pending.
         </ReactTooltip>
       </Link>
-      {/*<button onClick={props.auth.login}>Dog</button>*/}
     </Flexbox>
   );
 };

@@ -36,7 +36,7 @@ class NavApp extends Component {
         <Logo />
         <NavItem active={true} label="Home" onClick={this.clean} />
         <Link to="/" onClick={this.clean}>
-          <NavItem onClick={this.clean} active={false} label="Log Out" />
+          <NavItem onClick={this.clean} active={false} label="Log Out" data-cy="logout"/>
         </Link>
       </Flexbox>
     );
