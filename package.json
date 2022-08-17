@@ -7,7 +7,8 @@
     "start": "webpack-dev-server --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
     "format": "prettier --write 'src/**/*.js' --write '*.js' --write 'cypress/integration/*.js' --write 'jest/*.js'",
-    "test": "cypress open"
+    "test": "cypress open",
+    "sauce": "saucectl run --tunnel-name=tunnelui1"
   },
   "author": "Abhra Biswas",
   "license": "ISC",
