@@ -2,6 +2,8 @@
 
 Paywatch is a commission and income-tracking app that helps salespeople monitor their earnings. Users can monitor weekly and monthly income, identify trends, and set and exceed goals in Paywatch.
 
+Read a postmortem of this project on Medium: [The Full Stack React App: A Front-End Postmortem](https://yallcantspell.medium.com/paywatch-mvp-a-postmortem-14f1b8b6596a)
+
 ## Live Site
 
 <p align="center">
