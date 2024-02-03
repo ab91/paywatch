@@ -4,13 +4,11 @@ Paywatch is a commission and income-tracking app that helps salespeople monitor 
 
 Read a postmortem of this project on Medium: [The Full Stack React App: A Front-End Postmortem](https://yallcantspell.medium.com/paywatch-mvp-a-postmortem-14f1b8b6596a)
 
-## Live Site
+## Appearance
 
 <p align="center">
   <img src="https://res.cloudinary.com/ab91/image/upload/v1592354165/Portfolio%20New/paywatch_demo.gif" alt="Paywatch Gif"/>
 </p>
-
-View Paywatch at [https://confident-heisenberg-eb5e39.netlify.app/](https://confident-heisenberg-eb5e39.netlify.app/)
 
 ## Features
 - Log hours and income via "select" and "text" inputs, see Data Visualization adjust according to input
